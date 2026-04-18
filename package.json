@@ -1,0 +1,12 @@
+{
+  "WeiboTiebaSignIn": {
+    "name": "微博贴吧自动签到",
+    "description": "定时自动签到微博和贴吧",
+    "labels": "签到",
+    "version": "1.0",
+    "icon": "signin.png",
+    "author": "Grok助手",
+    "level": 1,
+    "v2": true
+  }
+}
